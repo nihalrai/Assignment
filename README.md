@@ -1,5 +1,14 @@
 # Atlan Backend Internship Task
 
+
+## TODO
+
+- Multiprocess adding and halting.
+- Add OOPs structure in it.
+- Implement the pause and resume api endpoints with dashboard.
+- Add extra template for Upload page and refresh page.
+
+
 ## REST API endpoints to manage a process
 
 - Stop a process
